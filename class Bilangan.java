@@ -4,6 +4,12 @@
  */
 package pkg22166034.pbo.lat58;
 
+* Nama         : Nur Hidayah
+* NIM          : 22166034 
+* Mata Kuliah  : PBO 
+* Prodi        : Sistem Informasi
+// Semester 3
+
 class Bilangan {
     private final int x;
     private final int y;
